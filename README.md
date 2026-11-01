@@ -20,16 +20,16 @@ This repository contains the completed tasks for Lab #4a, focusing on client-sid
 ## Screenshots of Outputs
 
 ### Question 1: Interactive Text Changer
-> ![Q1 Output](images/Q1B.png)
-> ![Q1 Output](images/Q1R.png)
+> ![Q1 Output](Q1B.png)
+> ![Q1 Output](Q1R.png)
 
 ### Question 2: Smart Number Validator
-> ![Q23 Output](images/Q23-output.png)
-> ![QRH Output](images/QRH-output.png)
-> ![QRL Output](images/QRL-output.png)
-> ![QRV Output](images/QRV-output.png)
+> ![Q23 Output](Q23.png)
+> ![QRH Output](QRH.png)
+> ![QRL Output](QRL.png)
+> ![QRV Output](QRV.png)
 
 
 ### Question 3: Dynamic Number Generator
-> ![Q3RB Output](images/Q3RB-output.png)
-> ![Q3RA Output](images/Q3RA-output.png)
+> ![Q3RB Output](Q3RB.png)
+> ![Q3RA Output](Q3RA.png)
